@@ -26,3 +26,21 @@
   background-color: white;
   border-color: #006A50;
 }
+/* banner-section */
+.banner{
+  display: flex;
+  background-color: #C6E4D6;
+}
+/* banner-content */
+.banner-heading-top{
+  font-size: 24px;
+  font-weight: 500;
+  color: rgba(14, 14, 14, 0.4);
+
+}
+.banner-heading-middle{
+  font-size: 56px;
+  font-weight: bold;
+  color: #0E0E0E;
+
+}
