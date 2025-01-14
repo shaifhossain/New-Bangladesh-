@@ -30,6 +30,10 @@
 .banner{
   display: flex;
   background-color: #C6E4D6;
+   margin: 0 140px;
+   border-radius: 24px;
+   padding: 80px 100px;
+   
 }
 /* banner-content */
 .banner-heading-top{
@@ -41,6 +45,25 @@
 .banner-heading-middle{
   font-size: 56px;
   font-weight: bold;
-  color: #0E0E0E;
-
+  
 }
+.banner-button{
+  background-color: rgba(0, 106, 80, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 18px;
+  font-weight: 500px;
+  padding: 17px 34px;
+  border-radius: 8px;
+  border: none;
+}
+.banner-image{
+  width: 474px ;
+  height: 400px;
+}
+
+
+/* color section */
+.dark-100{
+  color:rgba(14, 14, 14, 1);
+}
+
