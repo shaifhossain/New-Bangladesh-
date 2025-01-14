@@ -39,12 +39,16 @@
 .banner{
   display: flex;
   background-color: #C6E4D6;
+  justify-content: space-between;
    
    border-radius: 24px;
    padding: 80px 100px;
    
 }
 /* banner-content */
+.banner-content{
+  max-width: 610px;
+}
 .banner-heading-top{
   font-size: 24px;
   font-weight: 500;
@@ -56,6 +60,7 @@
   font-weight: bold;
   
 }
+
 .banner-button{
   background-color: rgba(0, 106, 80, 1);
   color: rgba(255, 255, 255, 1);
@@ -67,7 +72,7 @@
 }
 .banner-image{
   width: 474px ;
-  height: 400px;
+ 
 }
 
 
