@@ -3,13 +3,22 @@
 .fira-sans-normal{
   font-family: "Fira Sans", serif;
   font-style: normal;
+
+   
+}
+.body-color{
+  background-color:rgba(241, 241, 243, 1)
+
+}
+.body-margine{
+  margin: 0 60px;
 }
 /* nav styles */
 .nav-section{
   display:flex;
   align-items: center;
   justify-content: space-between;
-  margin: 0 140px;
+  
 
 }
 .nav-tytle{
@@ -23,14 +32,14 @@
   color: #006A50;
   border-radius:8px ;
   padding: 15px 30px;
-  background-color: white;
   border-color: #006A50;
+
 }
 /* banner-section */
 .banner{
   display: flex;
   background-color: #C6E4D6;
-   margin: 0 140px;
+   
    border-radius: 24px;
    padding: 80px 100px;
    
