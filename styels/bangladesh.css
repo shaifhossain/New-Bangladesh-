@@ -74,10 +74,46 @@
   width: 474px ;
  
 }
+/* The-Vision-of-Future section */
+.The-Vision-of-Future{
+
+}
+.the-vision{
+  font-weight: bold;
+  font-size: 40px;
+}
+.vision-paragraph{
+  font-size: 16px;
+  font-weight: 400;
+}
+/* vision-contant */
+.vision-contant{
+  display: flex;
+  justify-content: space-between;
+}
+.contant-1{
+  background-color: rgba(84, 144, 245, 0.2);
+}
+.contant-2{
+  background-color: rgba(198, 228, 214, 1);
+}
+.contant-3{
+  background-color: rgba(247, 235, 207, 1);
+}
+/* same-for-all-contant */
+.all-contant{
+  padding: 32px 32px;
+  border-radius: 16px;
+  max-width: 410px
+}
 
 
 /* color section */
 .dark-100{
   color:rgba(14, 14, 14, 1);
 }
+.dark-70{
+  color: rgba(14, 14, 14, 0.7);
+}
+
 
