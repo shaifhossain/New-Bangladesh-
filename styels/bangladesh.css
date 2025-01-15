@@ -146,7 +146,64 @@ background-color: rgba(255, 194, 57, 1);
   border-radius: 16px;
   margin-top: 32px;
 }
+.dr-bio{
+  font-size: 16px;
+  font-weight: 400px;
+}
+.dr-title{
+  font-size: 20px;
+  font-weight: 600;
+}
+.dr-description{
+  font-size: 16px;
+  font-weight: 400;
+}
+/* Recent News section */
+.news-title{
+ font-weight: bold;
+ font-size: 40px;  
+}
+.news-description{
+  font-size: 16px;
+  font-weight: 400px;
+}
+.satalite-1{
+  display: flex;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 24px;
+  padding: 48px 48px;
+  justify-content: space-between;
+  max-width: 1280;
+  
+}
+.satalite-description{
+  max-width: 600px;
+}
+/* satellite image */
+.s1-image{
+  border-radius: 24px;
+}
+.s-title{
+ font-size: 32px;
+ font-weight: bold;
+}
+.s-description{
+  font-size: 16px;
+  font-weight: 400px;
 
+}
+
+
+/* satellite button for all*/
+.s-button{
+  background-color: rgba(0, 106, 80, 1);
+  padding: 13px 26px;
+  color: rgba(255, 255, 255, 1);
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+}
 
 
 /* color section */
