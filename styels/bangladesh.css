@@ -135,6 +135,17 @@ background-color: rgba(9, 161, 92, 1);
 .b3{
 background-color: rgba(255, 194, 57, 1);
 }
+/* challenge-part */
+.challenge-part{
+  background-color: rgba(255, 255, 255, 1);
+  background-image: url('../assets/quote-bg.png');
+  background-repeat: no-repeat;
+  background-position-x: 23px;
+  background-position-y: 25px;
+  padding: 48px 24px;
+  border-radius: 16px;
+  margin-top: 32px;
+}
 
 
 
